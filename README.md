@@ -1,4 +1,8 @@
+#### 有的工具可能不适合自己，自己写脚本才是王道
 
+#### shodan信息收集
+
+![](/home/zss/Infiltration_script/README/2021121211111.gif)
 
 ####  FTP多线程爆破
 
