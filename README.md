@@ -2,7 +2,7 @@
 
 #### shodan信息收集
 
-![](/home/zss/Infiltration_script/README/2021121211111.gif)
+![](https://cdn.jsdelivr.net/gh/Zhao-sai-sai/Picture/2021121211111.gif)
 
 ####  FTP多线程爆破
 
@@ -12,7 +12,7 @@
 
 
 
-
+#### 代理服务器采集
 
 
 
